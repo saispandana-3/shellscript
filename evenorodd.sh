@@ -12,4 +12,4 @@ echo "given input $a is odd"
 else
 echo " you entered invalid number"
 fi
-
+######the end########
