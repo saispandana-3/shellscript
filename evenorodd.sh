@@ -1,7 +1,7 @@
 #!/bin/bash
 # we are checking weather input is even or odd
 echo "enter value: "
-read a
+a=2
 y=`expr $a % 2`
 if [ $y -eq 0 ]
 then
